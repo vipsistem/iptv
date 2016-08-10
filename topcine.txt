@@ -1,10 +1,10 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://photos-5.dropbox.com/t/2/AAACd-h6xCRoQiF6j2NaR3rVEpbJFt1etPeiDf7ePlKBYA/12/527776423/jpeg/1024x768/3/1470168000/0/2/PicsArt_07-11-05.12.08.jpg/EIf9zpwEGIQBIAIoAg/I29f99p72cFDHpHUpupXSVZI8nFCPtLxb7aXtNEgbgM?size_mode=3&size=1024x768" group-title="INFORMAÇÃO",》INFORMAÇÃO
-http://listaiptvredenet.m3u
+http://lista.vipsistem.com
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:Vergilio Monteiro
 http://www.tvonlinegratis.tv/canaisö/cartoon-network.html
 
 #EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
@@ -21,7 +21,7 @@ Bit.ly/topcineiotv
 http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 
-#EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",watsapp 885594993292
+#EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",watsapp 4498761030
 http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg 
 #EXTINF:-1 tvg-logo="http://lh4.googleusercontent.com/--888YMQhpzE/VQNbmI3ITKI/AAAAAAAAitk/pdjYLPMUIug/s320/LL.png" group-title="INFORMAÇÃO",Assista tbm no kodi
 http://listaredenet.m3u
